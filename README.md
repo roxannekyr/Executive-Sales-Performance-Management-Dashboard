@@ -5,13 +5,13 @@ Designed and implemented an end-to-end business intelligence solution using Powe
 <br />
 
 
-<h2>Tools used in this project:</h2>
+<h2>Tools used in this project</h2>
 
 - <b>Power BI Desktop</b> 
 - <b>Power Query</b>
 - <b>DAX</b>
 
-<h2>Power BI Dashboard walk-through:</h2>
+<h2>Power BI Dashboard walk-through</h2>
 
 
 Sales KPI Summary: <br/>
